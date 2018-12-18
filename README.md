@@ -1,1 +1,1 @@
-It's a crypto cpuminer
+It's a crypto miner
